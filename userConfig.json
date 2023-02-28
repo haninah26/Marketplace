@@ -1,11 +1,12 @@
 {
   "collections": [
-    "s6ozi1UEE78ckekrHyUf5xzapbHuzcsr4WybpHwjdFK"
+    "s6ozi1UEE78ckekrHyUf5xzapbHuzcsr4WybpHwjdFK",
+    "8osqrt5UTZUvEgbfjvinoMut8G4EaTgQA2e7J7WTfabn"
   ],
+  "network": "devnet",
   "xApiKey": "mw_JLTV0qbCH6OlGxX61sBIrvnFA8L2AUfedDr",
-  "serviceFee": "4.25",
+  "serviceFee": 3,
   "currencyOption": "SOL",
-  "name": "OtherMarketplace",
-  "logo": "",
-  "network": "devnet"
+  "name": "OtherLand Marketplace",
+  "logo": "https://collections.mirrorworld.fun/1677594475394-other.jpg"
 }
